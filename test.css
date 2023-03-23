@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'fo2font';
+    src:
+        url('/fonts/retrogaming.woff2') format('woff2'),
+        url('/fonts/retrogaming.woff') format('woff'),
+        url('/fonts/retrogaming.ttf') format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
